@@ -23,6 +23,18 @@ This project introduces a multi-phase methodology for building a dataset for Goo
  
 # Initial Dataset
 # Digital Image Processing Techniques
+About the Code
+The provided Python script performs weed isolation using a combination of image processing techniques. It processes a batch of Goosefoot weed images and removes background noise to create clean, black-background images suitable for dataset construction. The main steps include:
+
+Excess Green (ExG) Calculation to highlight vegetation.
+
+Binary Thresholding to separate plant from background.
+
+Small Object Removal to clean noise.
+
+Green Segmentation in HSV Space to preserve true plant areas.
+
+Output Generation of isolated weed images with visualization.
 📥 [Click here to download the full notebook from the release page](https://github.com/TA-code-ai/DIP-Project-Codes/releases/tag/v1.0)
 # Stable Diffusion 3.5 Model
 # Training Scences
