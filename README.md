@@ -19,7 +19,7 @@ This project introduces a multi-phase methodology for building a dataset for Goo
    - Overlay synthetic and real weed images onto isolated soybean crop backgrounds to create realistic agricultural scenes.
 
 5. **Model Training and Evaluation**  
-   - The final dataset will be split into training and testing. The YOLOv11 ([Khanam, 2024](https://example.com)) model will be trained for Goosefoot weed detection and its performance will be evaluated on the testing data using common metrics like **accuracy**, **precision**, **recall**, and **F1-score**.
+   - The final dataset will be split into training and testing. The YOLOv12 ([Khanam, 2024](https://example.com)) model will be trained for Goosefoot weed detection and its performance will be evaluated on the testing data using common metrics like **accuracy**, **precision**, **recall**, and **F1-score**.
  
 # Initial Dataset
 # Digital Image Processing Techniques
