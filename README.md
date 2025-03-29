@@ -23,7 +23,6 @@ This project introduces a multi-phase methodology for building a dataset for Goo
  
 # Initial Dataset
 # Digital Image Processing Techniques
-About the Code
 The provided Python script performs weed isolation using a combination of image processing techniques. It processes a batch of Goosefoot weed images and removes background noise to create clean, black-background images suitable for dataset construction. The main steps include:
 
 Excess Green (ExG) Calculation to highlight vegetation.
