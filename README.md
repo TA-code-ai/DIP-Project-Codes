@@ -23,6 +23,7 @@ This project introduces a multi-phase methodology for building a dataset for Goo
  
 # Initial Dataset
 # Digital Image Processing Techniques
+📥 [Click here to download the full notebook from the release page](https://github.com/TA-code-ai/DIP-Project-Codes/releases/tag/v1.0)
 # Stable Diffusion 3.5 Model
 # Training Scences
 # Training YOLOv12
