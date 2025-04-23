@@ -22,6 +22,9 @@ This project introduces a multi-phase methodology for building a dataset for Goo
    - The final dataset will be split into training and testing. The YOLOv12 ([Khanam, 2024](https://example.com)) model will be trained for Goosefoot weed detection and its performance will be evaluated on the testing data using common metrics like **accuracy**, **precision**, **recall**, and **mAP@0.5**.
  
 # Initial Dataset
+332 images of Goosefoot weed were used from the GitHub repository: [zhangchuanyin/weed-datasets](https://github.com/zhangchuanyin/weed-datasets) as the primary source.
+![Goosefoot Sample](images/goosefoot_sample.png)
+
 # Digital Image Processing Techniques
 The provided Python script performs weed isolation using a combination of image processing techniques. It processes a batch of Goosefoot weed images and removes background noise to create clean, black-background images suitable for dataset construction. The main steps include:
 
